@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73840872-1faf-409a-86ff-5194db440e19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.3.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/BankService/Bank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/SceneManagementService/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Assets/IAssets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/SceneObjectsProvider/SceneObjectsProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/PlayerBoostService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/UnityProjects/K-Syndicate-study-project-main/Assets/CodeBase/Infrastructure/States/GameStateMachine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Data/ItemSaveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Sound/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Data/PlayerProgress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/LoadProgressService/ILoadProgressService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBoostService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Player/Boosters/BoosterData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/BankService/IBank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/SceneManagementService/SceneData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Services/SceneManagementService/ISceneManagementService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UI/Main/Shop/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerClickService/IPlayerClickService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerClickService/PlayerClickService.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/ClickButton/ClickButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerClickService/IPlayerClickHandlerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/SoundPlayerService/ISoundPlayerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/SoundPlayerService/SoundPlayerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Ads/BonusWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/BoostType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/VavilichevGD/Utils/SyncedTimer/Scripts/SyncedTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBoostHandleService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/PlayerBoostHandleService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBooster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/PlayerBooster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/PlayerDpcBooster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerBoosters.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/BonusWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBoosterWatcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBoostWatcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/IUpdateUIObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/UpdateUIObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Installers/GameInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/SceneInitializers/MainInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Factories/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/StaticDataLoadService/IStaticDataLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/StaticDataLoadService/StaticDataLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/BoostIndicatorsDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/Boosters/BoosterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/BoostIndicators/BoostIndicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/Shop/Item/ItemStaticData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/Shop/Item/ItemBuy.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/Shop/Item/ItemUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Factories/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Sound/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/SceneObjectsProvider/ISceneObjectsProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Bootstrap/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/SceneObjectsProvider/SceneObjectsProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/Boosters/IPlayerBooster.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/HudSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/BoostIndicators/BoostIndicatorsDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/IPlayerBoostService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Services/PlayerBoostService/PlayerBoostService.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/PlayerStats/PlayerStatsDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Main/Hud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/Boosters/PlayerDpcBooster.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QxzGgr0ygmjTOxfoVzF1SghUQu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73840872-1faf-409a-86ff-5194db440e19" name="Default Changelist" comment="" />
+      <created>1686309931070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686309931070</updated>
+      <workItem from="1686309935593" duration="4390000" />
+      <workItem from="1686339143764" duration="1658000" />
+      <workItem from="1686369692417" duration="5200000" />
+      <workItem from="1686636505435" duration="8213000" />
+      <workItem from="1686653034260" duration="4336000" />
+      <workItem from="1686767633417" duration="4210000" />
+      <workItem from="1686828737650" duration="568000" />
+      <workItem from="1686845967843" duration="3051000" />
+      <workItem from="1686898567026" duration="7684000" />
+      <workItem from="1686938400978" duration="3840000" />
+      <workItem from="1686985819276" duration="6043000" />
+      <workItem from="1686997586307" duration="2119000" />
+      <workItem from="1687058455053" duration="5530000" />
+      <workItem from="1687064105248" duration="168000" />
+      <workItem from="1687074580485" duration="1151000" />
+      <workItem from="1687149162970" duration="7316000" />
+      <workItem from="1687159492928" duration="3609000" />
+      <workItem from="1687200428841" duration="2594000" />
+      <workItem from="1687232088201" duration="4451000" />
+      <workItem from="1687239907836" duration="6341000" />
+      <workItem from="1687249374992" duration="3964000" />
+      <workItem from="1687323085528" duration="9434000" />
+      <workItem from="1687370682113" duration="1402000" />
+      <workItem from="1687376250082" duration="1584000" />
+      <workItem from="1687410372047" duration="7479000" />
+      <workItem from="1687420664144" duration="1812000" />
+      <workItem from="1687432562853" duration="1896000" />
+      <workItem from="1687543454996" duration="4814000" />
+      <workItem from="1687584634095" duration="8589000" />
+      <workItem from="1687604111818" duration="865000" />
+      <workItem from="1687626998309" duration="706000" />
+      <workItem from="1687628922253" duration="2141000" />
+      <workItem from="1687689649514" duration="3430000" />
+      <workItem from="1687781521557" duration="5431000" />
+      <workItem from="1687845811622" duration="7837000" />
+      <workItem from="1687883452550" duration="7003000" />
+      <workItem from="1687929467164" duration="5591000" />
+      <workItem from="1687970340733" duration="4115000" />
+      <workItem from="1688038707340" duration="5722000" />
+      <workItem from="1688053920626" duration="1729000" />
+      <workItem from="1688124444658" duration="2618000" />
+      <workItem from="1688132014249" duration="4769000" />
+      <workItem from="1688147110885" duration="1179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="158" key="RiderGenerateDialog" timestamp="1688132310168">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="594" y="158" key="RiderGenerateDialog/0.0.1536.912@0.0.1536.912" timestamp="1688132310168" />
+  </component>
+</project>
